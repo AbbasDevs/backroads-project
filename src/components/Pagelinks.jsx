@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import { pageLinks } from '../data'
-import PageLink from './Pagelink.jsx'
+import PageLink from './PageLink'
 
 
 const PageLinks = ({ parentClass, itemClass }) => {
