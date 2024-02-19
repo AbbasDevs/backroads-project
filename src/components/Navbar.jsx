@@ -1,6 +1,6 @@
 import logo from '../images/logo.svg'
 import {  socialLinks } from '../data'
-import PageLinks from './Pagelinks'
+import PageLinks from './PageLinks'
 import SocialLink from './SocialLink'
 const Navbar = () => {
   return (
