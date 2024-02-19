@@ -1,4 +1,5 @@
-const Pagelink = ({ link, itemClass }) => {
+/* eslint-disable react/prop-types */
+const PageLink = ({ link, itemClass }) => {
     return (
       <li key={link.id}>
         <a href={link.href} className={itemClass}>
@@ -7,4 +8,4 @@ const Pagelink = ({ link, itemClass }) => {
       </li>
     )
   }
-  export default Pagelink
+  export default PageLink

@@ -1,5 +1,7 @@
-import { pageLinks, socialLinks } from '../data'
-import PageLinks from './PageLinks'
+/* eslint-disable react/prop-types */
+
+import {socialLinks } from '../data'
+import PageLinks from './Pagelinks'
 import SocialLink from './SocialLink'
 const Footer = () => {
   return (

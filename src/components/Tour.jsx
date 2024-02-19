@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 const Tour = ({ image, date, title, info, location, duration, cost }) => {
     return (
       <article className='tour-card'>

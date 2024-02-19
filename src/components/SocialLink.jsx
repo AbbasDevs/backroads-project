@@ -1,3 +1,5 @@
+
+/* eslint-disable react/prop-types */
 const SocialLink = ({ itemClass, href, icon }) => {
     return (
       <li>

@@ -1,3 +1,6 @@
+
+/* eslint-disable react/prop-types */
+
 const Service = ({ icon, title, text }) => {
     return (
       <article className='service'>

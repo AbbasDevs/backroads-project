@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 const Title = ({ title, subTitle }) => {
     return (
       <div className='section-title'>
